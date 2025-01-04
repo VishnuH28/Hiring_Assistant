@@ -1,5 +1,3 @@
-I'll create a comprehensive README.md file for your project:
-
 ```markdown
 # TalentScout Hiring Assistant 🤖
 
