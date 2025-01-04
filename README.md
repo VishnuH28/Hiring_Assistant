@@ -1,4 +1,3 @@
-```markdown
 # TalentScout Hiring Assistant 🤖
 
 ## Project Overview
